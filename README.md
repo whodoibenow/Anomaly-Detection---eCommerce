@@ -27,7 +27,7 @@ In an Isolation Forest, randomly sub-sampled data is processed in a tree structu
 
 The flow of the code started with essential data visualisation and understanding the dataset. The dataset comprises of 21 features and 9994 rows. Followed by basic preprocessing and data visualisation to get an knowhow of the distribution of data to better under the anomaly.
 
-![My Image](images/Screenshot 2022-09-05 at 3.43.39 PM.png)
+![My Image](Screenshot 2022-09-05 at 3.43.39 PM.png)
 
 Further, we inspected few random points to know the format of data input. We found out there were few data points with negetive profit, which is an anomaly. And found some extremely large sales, which can also be an anomaly. 
 
