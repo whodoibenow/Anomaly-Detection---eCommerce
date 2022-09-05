@@ -32,7 +32,7 @@ The flow of the code started with essential data visualisation and understanding
 
 Further, we inspected few random points to know the format of data input. We found out there were few data points with negetive profit, which is an anomaly. And found some extremely large sales, which can also be an anomaly. 
 
-![My Image]()
+![My Image](https://github.com/whodoibenow/Anomaly-Detection---eCommerce/raw/main/Screenshot%202022-09-05%20at%203.45.20%20PM.png)
 
 After all the exploratory analysis, we moved forward to transform the data in the form of Min-Max Scaler.
 
@@ -42,25 +42,25 @@ Next, we ran outlier detection using Cluster Based Local Outlier Factor (CBLOF),
 
 With Cluster Based Local Outlier Factor (CBLOF), we were able to detect 100 Outliers and 9894 Inliers.
 
-![My Image](images/Screenshot 2022-09-05 at 3.44.15 PM)
+![My Image]([images/Screenshot 2022-09-05 at 3.44.15 PM](https://github.com/whodoibenow/Anomaly-Detection---eCommerce/raw/main/Screenshot%202022-09-05%20at%203.44.15%20PM.png))
 
 ### Histogram Based Outlier Detetion (HBOS)
 
 With Histogram Based Outlier Detetion (HBOS), we were able to detect 90 Outliers and 9904 Inliers.
 
-![My Image](images/Screenshot 2022-09-05 at 3.44.36 PM)
+![My Image]([images/Screenshot 2022-09-05 at 3.44.36 PM](https://github.com/whodoibenow/Anomaly-Detection---eCommerce/raw/main/Screenshot%202022-09-05%20at%203.44.26%20PM.png))
 
 ### Isolation Forest (IF)
 
 With Isolation Forest (IF), we were able to detect 100 Outliers and 9894 Inliers. 
 
-![My Image](images/Screenshot 2022-09-05 at 3.44.35 PM)
+![My Image]([images/Screenshot 2022-09-05 at 3.44.35 PM](https://github.com/whodoibenow/Anomaly-Detection---eCommerce/raw/main/Screenshot%202022-09-05%20at%203.44.35%20PM.png))
 
 ### K-Nearest Neighbours (KNN)
 
 With K-Nearest Neighbours (KNN), we were able to detect 91 Outliers and 9903 Inliers.
 
-![My Image](images/Screenshot 2022-09-05 at 3.44.50 PM)
+![My Image]([images/Screenshot 2022-09-05 at 3.44.50 PM](https://github.com/whodoibenow/Anomaly-Detection---eCommerce/raw/main/Screenshot%202022-09-05%20at%203.44.50%20PM.png))
 
 
 ### Predictions
@@ -69,13 +69,12 @@ Isolation Forest was finally decided to use as our model to predict outliers. He
 
 We used several arbitrary figures as sales to predict the Anomaly such as follows:
 
-![My Image](images/my-image.jpg)
+![My Image](https://github.com/whodoibenow/Anomaly-Detection---eCommerce/raw/main/Screenshot%202022-09-05%20at%203.56.20%20PM.png)
 
-![My Image](images/my-image.jpg)
+![My Image](https://github.com/whodoibenow/Anomaly-Detection---eCommerce/raw/main/Screenshot%202022-09-05%20at%203.56.32%20PM.png)
 
-![My Image](images/my-image.jpg)
+![My Image](https://github.com/whodoibenow/Anomaly-Detection---eCommerce/raw/main/Screenshot%202022-09-05%20at%203.56.49%20PM.png)
 
-![My Image](images/my-image.jpg)
 
 
 
