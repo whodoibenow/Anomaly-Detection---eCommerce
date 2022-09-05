@@ -69,10 +69,16 @@ Isolation Forest was finally decided to use as our model to predict outliers. He
 
 We used several arbitrary figures as sales to predict the Anomaly such as follows:
 
+
+For this, we used 122.184 units of sales to check if its an anomaly. Model predicted : NOT ANOMALY
 ![My Image](https://github.com/whodoibenow/Anomaly-Detection---eCommerce/raw/main/Screenshot%202022-09-05%20at%203.56.20%20PM.png)
 
+
+For this, we used 2000.184 units of sales to check if its an anomaly. Model predicted : NOT ANOMALY
 ![My Image](https://github.com/whodoibenow/Anomaly-Detection---eCommerce/raw/main/Screenshot%202022-09-05%20at%203.56.32%20PM.png)
 
+
+For this, we used 1000.184 units of sales to check if its an anomaly. Model predicted : NOT ANOMALY
 ![My Image](https://github.com/whodoibenow/Anomaly-Detection---eCommerce/raw/main/Screenshot%202022-09-05%20at%203.56.49%20PM.png)
 
 
