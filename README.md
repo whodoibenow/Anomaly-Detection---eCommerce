@@ -42,25 +42,25 @@ Next, we ran outlier detection using Cluster Based Local Outlier Factor (CBLOF),
 
 With Cluster Based Local Outlier Factor (CBLOF), we were able to detect 100 Outliers and 9894 Inliers.
 
-![My Image]([images/Screenshot 2022-09-05 at 3.44.15 PM](https://github.com/whodoibenow/Anomaly-Detection---eCommerce/raw/main/Screenshot%202022-09-05%20at%203.44.15%20PM.png))
+![My Image](https://github.com/whodoibenow/Anomaly-Detection---eCommerce/raw/main/Screenshot%202022-09-05%20at%203.44.15%20PM.png)
 
 ### Histogram Based Outlier Detetion (HBOS)
 
 With Histogram Based Outlier Detetion (HBOS), we were able to detect 90 Outliers and 9904 Inliers.
 
-![My Image]([images/Screenshot 2022-09-05 at 3.44.36 PM](https://github.com/whodoibenow/Anomaly-Detection---eCommerce/raw/main/Screenshot%202022-09-05%20at%203.44.26%20PM.png))
+![My Image](https://github.com/whodoibenow/Anomaly-Detection---eCommerce/raw/main/Screenshot%202022-09-05%20at%203.44.26%20PM.png)
 
 ### Isolation Forest (IF)
 
 With Isolation Forest (IF), we were able to detect 100 Outliers and 9894 Inliers. 
 
-![My Image]([images/Screenshot 2022-09-05 at 3.44.35 PM](https://github.com/whodoibenow/Anomaly-Detection---eCommerce/raw/main/Screenshot%202022-09-05%20at%203.44.35%20PM.png))
+![My Image](https://github.com/whodoibenow/Anomaly-Detection---eCommerce/raw/main/Screenshot%202022-09-05%20at%203.44.35%20PM.png)
 
 ### K-Nearest Neighbours (KNN)
 
 With K-Nearest Neighbours (KNN), we were able to detect 91 Outliers and 9903 Inliers.
 
-![My Image]([images/Screenshot 2022-09-05 at 3.44.50 PM](https://github.com/whodoibenow/Anomaly-Detection---eCommerce/raw/main/Screenshot%202022-09-05%20at%203.44.50%20PM.png))
+![My Image](https://github.com/whodoibenow/Anomaly-Detection---eCommerce/raw/main/Screenshot%202022-09-05%20at%203.44.50%20PM.png)
 
 
 ### Predictions
